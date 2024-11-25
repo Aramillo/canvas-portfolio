@@ -1,0 +1,19 @@
+{
+  "title": "Contáctame",
+  "description": "Hablemos sobre tus ideas, proyectos o cualquier otra cosa",
+  "fullname": "Nombre completo",
+  "email": "Correo electrónico",
+  "phone": "Teléfono",
+  "subject": "Asunto de tu mensaje",
+  "message": "Mensaje",
+  "submit": "Enviar",
+  "success": "Tu mensaje ha sido enviado exitosamente",
+  "error": "Ups, ocurrió un error al enviar tu mensaje",
+  "budget": "Presupuesto",
+  "subject_types": {
+    "project": "Hablar sobre un proyecto",
+    "bug": "Reportar un error",
+    "question": "Hacer una pregunta",
+    "other": "Otro"
+  }
+}

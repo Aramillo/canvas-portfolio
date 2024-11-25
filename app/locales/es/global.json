@@ -1,0 +1,22 @@
+{
+  "app_description": "Canvas es una plantilla de portafolio simple pero hermosa para diseñadores y desarrolladores construida con Nuxt y Tailwind CSS. Hecho con ❤ por HugoRCD",
+  "copied_to_clipboard": "Copiado al portapapeles",
+  "article_link_copied": "Enlace del artículo copiado al portapapeles",
+  "email_copied": "Correo electrónico copiado al portapapeles",
+  "back_to_home": "Volver al inicio",
+  "switch_french": "Traducir al francés",
+  "switch_english": "Cambiar a inglés",
+  "search": "Buscar un comando",
+  "command": "Comandos disponibles",
+  "not_found": "Comando no encontrado",
+  "see_more": "Ver más",
+  "soon": "Próximamente",
+  "experiences": "Experiencias",
+  "contact": "Trabajemos juntos",
+  "email": "Copiar correo electrónico",
+  "cv": "Descargar currículum",
+  "meeting": "Agendar una reunión",
+  "available": "Disponible para nuevas oportunidades",
+  "unavailable": "Actualmente trabajando en otros proyectos increíbles",
+  "all_rights_reserved": "Todos los derechos reservados"
+}

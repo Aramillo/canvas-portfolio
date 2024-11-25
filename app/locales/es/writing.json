@@ -1,0 +1,16 @@
+{
+  "title": "Escritura",
+  "description": "Una colección de mis escritos",
+  "empty": "Aún no hay escritos, ¡vuelve pronto!",
+  "not_found": "No se encontraron escritos",
+  "not_found_description": "No pudimos encontrar el escrito que estabas buscando.",
+  "back_link": "Volver a escritura",
+  "readingTime": "minutos de lectura",
+  "share": "Compartir artículo",
+  "copy_link": "Copiar enlace",
+  "search_article": "Buscar artículo",
+  "blog": "Blog",
+  "unknown_author": "Autor desconocido",
+  "show_search": "Buscar",
+  "hide_search": "Ocultar búsqueda"
+}

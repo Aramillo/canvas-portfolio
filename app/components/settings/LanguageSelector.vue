@@ -21,6 +21,11 @@ const locales = [
     iso: 'fr',
     flag: '🇫🇷',
   },
+  {
+    name: 'Español',
+    iso: 'es',
+    flag: '🇺🇸',
+  },
 ]
 
 watch(locale, (newLocale) => {

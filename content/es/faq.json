@@ -1,0 +1,53 @@
+{
+  "title": "FAQ",
+  "subtitle": "Cosas que me preguntan mucho.",
+  "faqQuestions": [
+    {
+      "title": "Servicios",
+      "questions": [
+        {
+          "title": "¿Qué servicios ofreces?",
+          "answer": "Ofrezco una variedad de servicios que incluyen diseño web, desarrollo web, branding y fotografía. También puedo ayudar con SEO y marketing en redes sociales."
+        },
+        {
+          "title": "¿Puedes enseñarme a hacer un sitio web?",
+          "answer": "I don't offer courses at the moment, but I can recommend resources and advice to help you get the most out of your learning."
+        }
+      ]
+    },
+    {
+      "title": "Precios",
+      "questions": [
+        {
+          "title": "¿Cuánto cuesta un proyecto?",
+          "answer": "El costo de un proyecto depende de muchos factores, como el tamaño del proyecto, las características, el tiempo de desarrollo, etc. El monto inicial de mis servicios web empieza en 2000€, con un promedio entre 3000€ y 10000€. Para cualquier otro servicio de diseño o consultoría, generalmente cobro 450€ por día."
+        },
+        {
+          "title": "¿Cómo funciona el pago para un proyecto?",
+          "answer": "Pido un depósito del 40% antes de comenzar el proyecto, y el 60% restante después de la entrega exitosa. Acepto pagos por transferencia bancaria, PayPal, etc."
+        },
+        {
+          "title": "¿Cuánto tiempo dura un proyecto?",
+          "answer": "Es difícil dar una estimación exacta, ya que cada proyecto es diferente, pero la mayoría de mis trabajos anteriores han tardado entre 2 semanas y 2 meses."
+        },
+        {
+          "title": "¿Ofreces descuentos?",
+          "answer": "Ofrezco un descuento del 15% para estudiantes y organizaciones sin fines de lucro."
+        }
+      ]
+    },
+    {
+      "title": "Personal",
+      "questions": [
+        {
+          "title": "¿Qué es lo que más te gusta de este trabajo?",
+          "answer": "Me encanta aprender cosas nuevas y poder crear casi cualquier cosa desde cero, creando cosas hermosas que la gente usará y apreciará."
+        },
+        {
+          "title": "¿Aficiones fuera del trabajo?",
+          "answer": "Me encanta lo que hago, así que suelo pasar mucho tiempo trabajando en proyectos personales, fotografía, etc. También soy un gran aficionado a los deportes. Suelo ir al gimnasio y recientemente comencé a escalar."
+        }
+      ]
+    }
+  ]
+}

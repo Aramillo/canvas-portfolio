@@ -4,6 +4,7 @@ const { locale: current, setLocaleCookie } = useI18n()
 const locales = [
   { code: 'en', name: 'English' },
   { code: 'fr', name: 'Français' },
+  { code: 'es', name: 'Español' },
 ]
 
 const currentLocale = computed(() => {
@@ -20,13 +21,13 @@ watch(current, (newLocale) => {
     <ClientOnly>
       <div
         v-for="locale in locales"
-        :key="locale"
+        :key="locale.code"
         class="cursor-pointer select-none"
         @click="$i18n.locale = locale.code"
       >
         <span
           class="font-semibold"
-          :class="locale.code === currentLocale.code ? 'text-white' : 'text-gray-500'"
+          :class="locale.code === currentLocale?.code ? 'text-white' : 'text-gray-500'"
         >
           {{ locale.code }}
         </span>
