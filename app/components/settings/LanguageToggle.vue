@@ -3,7 +3,6 @@ const { locale: current, setLocaleCookie } = useI18n()
 
 const locales = [
   { code: 'en', name: 'English' },
-  { code: 'fr', name: 'Français' },
   { code: 'es', name: 'Español' },
 ]
 

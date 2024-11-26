@@ -8,11 +8,16 @@ export default defineAppConfig({
   phone: '(+33) 6 21 56 22 18',
   openGraphImage: 'https://canvas.hrcd.fr/social-preview.jpg',
   socials: {
-    github: 'https://github.com/HugoRCD',
-    twitter: 'https://twitter.com/HugoRCD__',
-    linkedin: 'https://www.linkedin.com/in/hugo-richard-0801',
-    instagram: 'https://www.instagram.com/hugo.rcd_',
-    spotify: 'https://open.spotify.com/user/yuvl0zpp3bpx4hne1ag7huten?si=df7ee2777c0c4fc4',
+    github: 'https://github.com/Aramillo',
+    // twitter: 'https://twitter.com/HugoRCD__',
+    linkedin: 'https://www.linkedin.com/in/antonio-miguel-p%C3%A9rez-aramillo-aa780b182',
+    // instagram: 'https://www.instagram.com/hugo.rcd_',
+    // spotify: 'https://open.spotify.com/user/yuvl0zpp3bpx4hne1ag7huten?si=df7ee2777c0c4fc4',
+  },
+  cvLinks: {
+    en: 'https://drive.google.com/file/d/1orIg4ABE277hZPv3OzFomKjQJWk0iuq0/view?usp=drive_link',
+    es: 'https://drive.google.com/file/d/1G2-ErWg4sZ0vlwAbgRJgqaAE8YRgOLE6/view?usp=drive_link',
+    fr: 'https://drive.google.com/file/d/1orIg4ABE277hZPv3OzFomKjQJWk0iuq0/view?usp=drive_link',
   },
   ui: {
     primary: 'emerald',

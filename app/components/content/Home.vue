@@ -35,7 +35,7 @@ defineOgImage({ url: appConfig.openGraphImage, width: 1200, height: 630, alt: 'H
           </h1>
 
           <!-- subtitle -->
-          <h2 class="mx-auto mt-4 max-w-xl text-center text-lg antialiased text-white/60">
+          <h2 class="mx-auto mt-4 max-w-xl text-center text-lg antialiased text-white/60" id="hero_subtitle">
             <ContentSlot :use="$slots.hero_subtitle" />
           </h2>
         </div>
@@ -78,3 +78,9 @@ defineOgImage({ url: appConfig.openGraphImage, width: 1200, height: 630, alt: 'H
     </div>
   </section>
 </template>
+
+<style>
+#hero_subtitle p {
+  margin-bottom: 12px; /* Ajusta este valor según la separación deseada */
+}
+</style>
